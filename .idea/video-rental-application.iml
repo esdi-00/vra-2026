@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="IvyIDEA" name="IvyIDEA">
+      <configuration>
+        <option name="ivyFile" value="C:\dev\workspace\video-rental-application\ivy.xml" />
+        <option name="useCustomIvySettings" value="false" />
+        <option name="useProjectSettings" value="false" />
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">

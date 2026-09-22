@@ -1,0 +1,7 @@
+com.rocs.video.rental
+com.rocs.video.rental.app.facade.item
+com.rocs.video.rental.app.facade.item.impl
+com.rocs.video.rental.app.model.item
+com.rocs.video.rental.data.connection
+com.rocs.video.rental.data.dao.item
+com.rocs.video.rental.data.dao.item.impl

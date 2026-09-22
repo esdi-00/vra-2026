@@ -10,6 +10,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * This class is the entry point of the application.
+ */
 public class VideoRentalApp {
 
     public static void main(String[] args) {
